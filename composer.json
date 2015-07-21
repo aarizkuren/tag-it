@@ -1,0 +1,11 @@
+{
+    "name": "aarizkuren/tag-it",
+    "description": "Adaptation to own projects of aehlke/tag-it",
+    "authors": [
+        {
+            "name": "Asier Arizkuren",
+            "email": "asier@blackbinder.net"
+        }
+    ],
+    "require": {}
+}
