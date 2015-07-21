@@ -1,11 +1,16 @@
 {
     "name": "aarizkuren/tag-it",
-    "description": "Adaptation to own projects of aehlke/tag-it",
-    "authors": [
-        {
-            "name": "Asier Arizkuren",
-            "email": "asier@blackbinder.net"
-        }
-    ],
-    "require": {}
+    "description": "Adaptation to own projects of aehlke/tag-it javascript library",
+    "type": "component",
+    "extra": {
+      "component": {
+        "scripts": [
+          "js/tag-it.js"
+        ],
+        "files": [
+          "js/tag-it.js",
+          "js/tag-it.min.js"
+        ]
+      }
+    }
 }
