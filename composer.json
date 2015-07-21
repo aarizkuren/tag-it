@@ -11,6 +11,9 @@
           "js/tag-it.js",
           "js/tag-it.min.js"
         ]
+      },
+      "branch-alias": {
+        "dev-master": "master"
       }
     }
 }
